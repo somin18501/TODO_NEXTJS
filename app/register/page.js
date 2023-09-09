@@ -54,8 +54,3 @@ export default function Page(){
     </div>
   );
 };
-
-export const metadata = {
-    title: 'Register',
-    description: 'This is a Register page of Todo App',
-}

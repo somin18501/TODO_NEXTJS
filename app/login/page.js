@@ -51,8 +51,3 @@ export default function Page(){
     </div>
   );
 };
-
-export const metadata = {
-    title: 'Login',
-    description: 'This is a Login page of Todo App',
-}
